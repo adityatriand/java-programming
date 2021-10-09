@@ -1,0 +1,3 @@
+UTSWholePart.Rudal
+UTSWholePart.Tabung
+UTSWholePart.Kerucut

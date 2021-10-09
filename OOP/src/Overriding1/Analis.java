@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Overriding1;
+
+/**
+ *
+ * @author Adit
+ */
+public class Analis extends Pegawai {
+    private int tunjangan;
+    
+    public int getTunjangan() {
+        return tunjangan;
+    }
+
+    public void setTunjangan(int tunjangan) {
+        this.tunjangan = tunjangan;
+    }
+    
+    @Override
+    public int hitungGaji(){
+        return getGajiPokok() + tunjangan;
+    }
+}

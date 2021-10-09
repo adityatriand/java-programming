@@ -1,0 +1,9 @@
+Latihan02_02.R_DenganKM1
+Latihan02_02.KamarMandi
+Latihan02_02.Rumah1
+Latihan02_02.R_TanpaKM1
+Latihan02_02.Pintu
+Latihan02_02.R_TanpaKM
+Latihan02_02.Pintu1
+Latihan02_02.R_DenganKM
+Latihan02_02.KamarMandi1
