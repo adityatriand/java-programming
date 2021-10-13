@@ -10,7 +10,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import javax.imageio.ImageIO;
-import javax.swing.JFrame;
 /**
  *
  * @author Iqbal
@@ -37,10 +36,11 @@ public class GrayScale {
             }
             File output = new File("lambangitsgrayscale.jpg");
             ImageIO.write(image,"jpg",output);
-        }catch(Exception e){}
+        }catch(IOException e){}
     }
     /**
      * @param args the command line arguments
+     * @throws java.lang.Exception
      */
     public static void main(String[] args) throws Exception {
         // TODO code application logic here

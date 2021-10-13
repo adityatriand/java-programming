@@ -22,7 +22,7 @@ class Pixel {
     
     public Pixel(){
         try{
-            File input = new File("lambangits.jpg");
+            File input = new File("kucing.jpg");
             image = ImageIO.read(input);
             width = image.getWidth();
             height = image.getHeight();
