@@ -218,7 +218,7 @@ public class ProcessingImage {
     
      
     public static void main(String[] args) throws Exception {
-        CitraVerticalFlip();
+        CitraBiner(128);
     }
     
 }
