@@ -1,5 +1,0 @@
-Polymorphisme.Sales
-Polymorphisme.Payroll
-Polymorphisme.Programmer
-Polymorphisme.MainPayroll
-Polymorphisme.Manajer

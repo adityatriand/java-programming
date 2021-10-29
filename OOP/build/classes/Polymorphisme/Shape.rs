@@ -1,6 +1,0 @@
-Polymorphisme.MainShape
-Polymorphisme.Triangle
-Polymorphisme.Main
-Polymorphisme.Rectangle
-Polymorphisme.Shape
-Polymorphisme.Circle
