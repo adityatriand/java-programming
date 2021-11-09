@@ -619,7 +619,7 @@ public class ProcessingImage {
     }
     
     public static void main(String[] args) throws Exception {
-        CitraZoomOut(2);
+        CitraVerticalFlip();
     }
     
 }
